@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+logs.log
+
+# Large dataset files (exceed GitHub 100 MB limit) — download from Kaggle
+training.csv
+test.csv
+
+# Large model files (74 MB each) — regenerate by running the notebook
+best_model.h5
+model.h5
